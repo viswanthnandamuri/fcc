@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Sai Raja Viswanth Nandamuri",
+  "keywords": ["freeCodeCamp","starter","new grad"],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -12,7 +13,7 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "description": "Let the server know",
   "version": "1.0.0",
   "license": "ISC"
 }
